@@ -16,7 +16,8 @@
         <script type="text/javascript" src="js/materialize.min.js"></script>
 
 
-<-- im a shit head !-->
+<--! im a shit head !-->
+<--! im also a shit head !-->
 
         <?php
         include './functions/cart.php';
